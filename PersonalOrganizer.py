@@ -54,7 +54,8 @@ def addEvent():
     eventDay.append(addDay)
     eventYear.append(addYear)
 
-#*********** MAIN **********
+#main
+
 eventName = []
 eventMonth = []
 eventDay = []
